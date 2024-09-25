@@ -1,5 +1,6 @@
-from math import gcd
+# https://www.codewars.com/kata/572bbd7c72a38bd878000a73
 
+from math import gcd
 class Fraction:
     
     def __init__(self, numerator, denominator):
